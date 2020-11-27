@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8886" started-at="2020-09-26T08:51:48 PDT" finished-at="2020-09-26T08:51:57 PDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8886" started-at="2020-09-26T08:51:48 PDT" finished-at="2020-09-26T08:51:57 PDT">
+      <class name="mvn.ExtentReport.ExtentReportDemo">
+        <test-method status="PASS" signature="config()[pri:0, instance:mvn.ExtentReport.ExtentReportDemo@2a17b7b6]" name="config" is-config="true" duration-ms="5479" started-at="2020-09-26T08:51:48 PDT" finished-at="2020-09-26T08:51:53 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method status="PASS" signature="demo()[pri:0, instance:mvn.ExtentReport.ExtentReportDemo@2a17b7b6]" name="demo" duration-ms="3156" started-at="2020-09-26T08:51:53 PDT" finished-at="2020-09-26T08:51:57 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- mvn.ExtentReport.ExtentReportDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
